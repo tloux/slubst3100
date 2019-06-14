@@ -1,0 +1,27 @@
+#' First pregnancies
+#'
+#' A dataset containing demographic and outcome information on a sample of first
+#' time pregnancies. All pregnancies in the data set are live, singleton births
+#' born in a hospital.
+#'
+#' @format A data frame with 656 rows and 12 variables:
+#'  \describe{
+#'   \item{caseid}{Birth identification number}
+#'   \item{babysex}{Sex of child}
+#'   \item{birthwgt}{Birthweight of child in ounces}
+#'   \item{payment}{Main payment source for birth-related expenses}
+#'   \item{priorsmoke}{Whether mother was smoking immediately prior to learning
+#'   of pregnancy}
+#'   \item{postsmoke}{Whether mother smoked between learning about pregnancy and
+#'   giving birth}
+#'   \item{cohab}{Whether mother was living with child's father at time of
+#'   conception}
+#'   \item{preglen}{Length of pregnancy in weeks}
+#'   \item{educ}{Mother's highest level of educational achievement at time of
+#'   pregnancy}
+#'   \item{race}{Mother's race}
+#'   \item{hispanic}{Mother's ethnicity}
+#'   \item{hisprace2}{Mother's combined race/ethnicity variable}
+#'  }
+#' @source unknown
+"first_preg"

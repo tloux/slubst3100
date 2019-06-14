@@ -1,0 +1,43 @@
+#' Weight management piot study
+#'
+#' A dataset containing information about a pilot study for weight management in
+#' individuals at risk for developing diabetes. The treatment group received 
+#' additional weight management counseling from a physician's assitant during 
+#' their regular doctor visits. The control group did not. The weight management
+#' counseling lasted for 6 months, at which time weight was recorded. 
+#' Participants returned for a 12-month visit in which weight was recorded 
+#' again. Any missing data in the 6 or 12 month visits were imputed using 
+#' baseline observation carried forward. All variables with \code{0m} suffix 
+#' were recorded at baseline.
+#'
+#' @format A data frame with 50 rows and 22 variables: 
+#'  \describe{
+#'   \item{studyid}{Participant study identification number}
+#'   \item{group}{Treatment group. \code{1} for counseling, \code{0} for 
+#'   control} 
+#'   \item{site}{Indicator of clinic location}
+#'   \item{age}{Age in years}
+#'   \item{gender}{Participant gender. \code{0} for male, \code{1} for female}
+#'   \item{ethn}{Participant ethnicity. \code{0} for white, \code{1} for 
+#'   African-American}
+#'   \item{currsmoke}{Indicator for whether participant smoked cigarettes at the
+#'   initiation of the study}
+#'   \item{yrseduc}{Years of education completed}
+#'   \item{height}{Height in inches}
+#'   \item{wt0m}{Weight in pounds}
+#'   \item{bmi}{Body mass index}
+#'   \item{waist0m}{Waist circumference in inches}
+#'   \item{sbp0m}{Systolic blood pressure}
+#'   \item{dbp0m}{Diastolic blood pressure}
+#'   \item{tchol0m}{Total cholesterol}
+#'   \item{ldl0m}{LDL cholesterol}
+#'   \item{hdl0m}{HDL cholesterol}
+#'   \item{trig0m}{Blood triglycerides}
+#'   \item{gluc0m}{Blood glucose}
+#'   \item{wt6m}{Weight at 6-month follow up}
+#'   \item{wt12m}{Weight at 12-month follow up}
+#'   \item{keptoff}{Whether weight was kept off at 12-month follow up (Whether 
+#'   12-month followup weight was less than baseline weight)}
+#'  }
+#' @source Data is described in \url{https://doi.org/10.1038/oby.2009.457}.
+"tsai"
