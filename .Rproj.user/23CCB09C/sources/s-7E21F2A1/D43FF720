@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573656611392.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2274571600",
+    "id" : "D43FF720",
+    "lastKnownWriteTime" : 1573656636,
+    "last_content_update" : 1573656636115,
+    "path" : "~/GitHub/slubst3100/R/smallpox.R",
+    "project_path" : "R/smallpox.R",
+    "properties" : {
+        "cursorPosition" : "11,13",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

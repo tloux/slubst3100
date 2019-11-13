@@ -10,8 +10,8 @@
   \item{result}{Whether the person lived or died}
  }}
 \source{
-Diez, D. M., Cetinkaya-Rundel, M., & Barr, C. D., (2019). *OpenIntro
-statistics* (pp. 99). OpenIntro.
+Diez, D. M., Cetinkaya-Rundel, M., & Barr, C. D., (2019). OpenIntro
+statistics (pp. 99). OpenIntro.
 }
 \usage{
 smallpox
