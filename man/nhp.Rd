@@ -4,20 +4,21 @@
 \name{nhp}
 \alias{nhp}
 \title{National health plan}
-\format{A data frame with 1262 rows and 2 variables: 
+\format{A data frame with 2168 rows and 2 variables:
  \describe{
-  \item{political}{Political party repondent identified with} 
+  \item{political}{Political party repondent identified with}
   \item{support}{Whether respondent supported a national health plan}
  }}
 \source{
-Data set created from the summarized data in 4th edition of
-  \url{https://www.openintro.org/stat/textbook.php} (pp 216).
+Data set created from the summarized data in
+  \url{https://www.openintro.org/go?id=isrs1&referrer=/book/isrs/index.php}
+  (pp 153).
 }
 \usage{
 nhp
 }
 \description{
-Responses to a Kaiser Family Foundation poll asking US adults whether they
-supported a national health plan.
+Responses to a survey asking whether US adults supported a
+national health plan.
 }
 \keyword{datasets}

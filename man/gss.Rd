@@ -4,14 +4,15 @@
 \name{gss}
 \alias{gss}
 \title{Marijuana legalization}
-\format{A data frame with 1578 rows and 2 variables: 
+\format{A data frame with 1259 rows and 2 variables:
  \describe{
   \item{id}{Participant identification number}
-  \item{legalize}{Respondent's response to question}
+  \item{legalize}{Respondent's answer to question}
  }}
 \source{
-Data set created from the summarized data in 4th edition of
-  \url{https://www.openintro.org/stat/textbook.php} (pp 216).
+Data set created from the summarized data in
+  \url{https://www.openintro.org/go?id=isrs1&referrer=/book/isrs/index.php}
+  (pp 153).
 }
 \usage{
 gss
