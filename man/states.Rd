@@ -4,7 +4,8 @@
 \name{states}
 \alias{states}
 \title{State demographic data}
-\format{A data frame with 50 rows and 9 variables: 
+\format{
+A data frame with 50 rows and 9 variables: 
  \describe{
   \item{Population}{Population estimate, 1975}
   \item{Income}{Per capita income, 1974}
@@ -18,7 +19,8 @@
   in capital or large city, 1931-1960}
   \item{Area}{Land area in square miles}
   \item{Region}{Region of country in which state is located}
- }}
+ }
+}
 \source{
 Data set created from \code{state.x77} and \code{state.region} in the
   \code{datasets} package. See \code{\link[datasets]{state.x77}} for more

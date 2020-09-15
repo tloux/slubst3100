@@ -4,11 +4,13 @@
 \name{immigrant}
 \alias{immigrant}
 \title{Fictional data set on immigrant depression}
-\format{A data frame with 275 rows and 2 variables: 
+\format{
+A data frame with 275 rows and 2 variables: 
  \describe{
   \item{id}{Study participant identification number}
   \item{depr}{Indicator variable for diagnosis of clinical depression}
- }}
+ }
+}
 \usage{
 immigrant
 }

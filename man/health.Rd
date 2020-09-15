@@ -4,7 +4,8 @@
 \name{health}
 \alias{health}
 \title{General health measurements from a sample of research participants}
-\format{A data frame with 80 rows and 14 variables: 
+\format{
+A data frame with 80 rows and 14 variables: 
  \describe{
   \item{gender}{Participant gender \code{0} for male, \code{1} for female}
   \item{age}{Age in years}
@@ -20,7 +21,8 @@
   \item{elbow}{Elbow circumference in inches}
   \item{wrist}{Wrist circumference in inches}
   \item{arm}{idk}
- }}
+ }
+}
 \source{
 \url{https://www.pearson.com/us/higher-education/product/Triola-Biostatistics-for-the-Biological-and-Health-Sciences-with-Statdisk/9780321194367.html}
 }

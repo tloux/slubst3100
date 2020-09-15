@@ -4,7 +4,8 @@
 \name{tsai}
 \alias{tsai}
 \title{Weight management piot study}
-\format{A data frame with 50 rows and 22 variables: 
+\format{
+A data frame with 50 rows and 22 variables: 
  \describe{
   \item{studyid}{Participant study identification number}
   \item{group}{Treatment group. \code{1} for counseling, \code{0} for 
@@ -32,7 +33,8 @@
   \item{wt12m}{Weight at 12-month follow up}
   \item{keptoff}{Whether weight was kept off at 12-month follow up (Whether 
   12-month followup weight was less than baseline weight)}
- }}
+ }
+}
 \source{
 Data is described in \url{https://doi.org/10.1038/oby.2009.457}.
 }

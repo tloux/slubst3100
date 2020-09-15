@@ -4,11 +4,13 @@
 \name{privacy}
 \alias{privacy}
 \title{Facebook privacy settings}
-\format{A data frame with 806 rows and 2 variables:
+\format{
+A data frame with 806 rows and 2 variables:
  \describe{
   \item{gender}{Respondent's gender}
   \item{adjust}{Respondent's answer to question}
- }}
+ }
+}
 \source{
 Data set created from the summarized data in
   \url{https://www.openintro.org/go?id=isrs1&referrer=/book/isrs/index.php}

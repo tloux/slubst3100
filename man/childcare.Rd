@@ -4,7 +4,8 @@
 \name{childcare}
 \alias{childcare}
 \title{Childcare worker vaccination data}
-\format{A data frame with 341 rows and 4 variables:
+\format{
+A data frame with 341 rows and 4 variables:
  \describe{
   \item{Flu_5yr}{Whether respondent received flu vaccine in last 5 years}
   \item{HepA}{Whether respondent received full series of Hepatitis A vaccine}
@@ -12,7 +13,8 @@
   10 years}
   \item{Flu_last_year}{Whether respondent received flu vaccine during last 
   flu season}
- }}
+ }
+}
 \source{
 Data comes from study described in Rebmann, Terri, Travis M Loux, and
   Brendan Daly. "Uptake and Beliefs Regarding Seasonal Influenza Vaccination

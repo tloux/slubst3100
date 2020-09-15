@@ -4,10 +4,12 @@
 \name{flint_vt}
 \alias{flint_vt}
 \title{Flint, Michigan, lead levels as recorded by Virginia Tech study team}
-\format{A data frame with 271 rows and 1 variable: 
+\format{
+A data frame with 271 rows and 1 variable: 
  \describe{
   \item{Pb_ppb}{The recorded lead concentration in ppb (parts per billion)}
- }}
+ }
+}
 \source{
 \url{http://flintwaterstudy.org/2015/12/complete-dataset-lead-results-in-tap-water-for-271-flint-samples/}
 }

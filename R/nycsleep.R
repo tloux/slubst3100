@@ -10,4 +10,4 @@
 #'  }
 #' @source Data set created from the summarized data in 
 #'   \url{https://www.openintro.org/book/isrs/} (pp 200).
-"sleep"
+"nycsleep"

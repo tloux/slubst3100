@@ -4,7 +4,8 @@
 \name{first_preg}
 \alias{first_preg}
 \title{First pregnancies}
-\format{A data frame with 656 rows and 12 variables:
+\format{
+A data frame with 656 rows and 12 variables:
  \describe{
   \item{caseid}{Birth identification number}
   \item{babysex}{Sex of child}
@@ -22,7 +23,8 @@
   \item{race}{Mother's race}
   \item{hispanic}{Mother's ethnicity}
   \item{hisprace2}{Mother's combined race/ethnicity variable}
- }}
+ }
+}
 \source{
 unknown
 }

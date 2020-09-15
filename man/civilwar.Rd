@@ -4,11 +4,13 @@
 \name{civilwar}
 \alias{civilwar}
 \title{Relevance of the Civil War}
-\format{A data frame with 2168 rows and 2 variables:
+\format{
+A data frame with 2168 rows and 2 variables:
  \describe{
   \item{id}{Participant identification number}
   \item{relevant}{Whether respondent believed Civil War is still relevant}
- }}
+ }
+}
 \source{
 Data set created from the summarized data in
   \url{https://www.openintro.org/go?id=isrs1&referrer=/book/isrs/index.php}

@@ -4,13 +4,15 @@
 \name{adolescents}
 \alias{adolescents}
 \title{Fictional data set of adolescent medical costs}
-\format{A data frame with 50 rows and 3 variables:
+\format{
+A data frame with 50 rows and 3 variables:
 \describe{
   \item{id}{Study ID; just a row number}
   \item{gender}{A factor with two levels: \code{f} for females, \code{m} for 
   males}
   \item{cost}{The cost in dollars of medical care }
-}}
+}
+}
 \usage{
 adolescents
 }

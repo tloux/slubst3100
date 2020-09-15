@@ -4,11 +4,13 @@
 \name{nhp}
 \alias{nhp}
 \title{National health plan}
-\format{A data frame with 2168 rows and 2 variables:
+\format{
+A data frame with 2168 rows and 2 variables:
  \describe{
   \item{political}{Political party repondent identified with}
   \item{support}{Whether respondent supported a national health plan}
- }}
+ }
+}
 \source{
 Data set created from the summarized data in
   \url{https://www.openintro.org/go?id=isrs1&referrer=/book/isrs/index.php}
