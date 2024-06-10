@@ -18,5 +18,5 @@
 #'   \item{walk_bike}{In a typical week, do you walk or bike for more than 10 minutes continuously to get to and from places? (1: yes; 2: no)}
 #'   \item{rec_vigorous}{Whether recreational acitivties include vigorous physical activity (1: yes; 2: no. Similar for `rec_moderate`)}
 #'  }
-#' @source \url{https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2017
+#' @source \url{https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?BeginYear=2017}
 "nhanes"
