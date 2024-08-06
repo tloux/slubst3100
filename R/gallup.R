@@ -1,0 +1,14 @@
+#' Diabetes and Unemployment
+#'
+#' Responses to a survey asking US adults about their
+#' employment and diabetes status. Results are from 18-29
+#' year-old respondents only
+#'
+#' @format A data frame with 2168 rows and 2 variables:
+#'  \describe{
+#'   \item{employment}{Respondent's employment status}
+#'   \item{diabetes}{Whether respondent has been diagnosed with diabetes}
+#'  }
+#' @source Data set created from the summarized data in 2nd edition of
+#'   \url{https://www.openintro.org/book/ims/} (pp 301).
+"gallup"
