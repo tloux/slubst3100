@@ -1,7 +1,7 @@
 Package: slubst3100
 Type: Package
 Title: Data for BST 3100 at Saint Louis University
-Version: 0.5.3
+Version: 0.6.0
 Authors@R: person(given = "Travis",
              family = "Loux",
              role = c("aut", "cre"),
@@ -10,4 +10,4 @@ Description: This package contains data sets that we will use throughout the sem
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
